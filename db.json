@@ -1,7 +1,9 @@
 {
+  "transaction": [
   "driverId": 1,
   "userId": 1,
   "solicitation": "23/08/1999",
   "status": "REQUESTED",
   "value": 99,
+  ],
 }
